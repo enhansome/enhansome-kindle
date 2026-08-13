@@ -1,0 +1,313 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Ebook Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Calibre",
+          "description": "A famous ebook manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:48:43Z",
+            "owner": "kovidgoyal",
+            "repo": "calibre",
+            "stars": 25625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kindle2notion",
+          "description": "A program to copy all your Kindle highlights and notes to a page in Notion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-23T08:22:35Z",
+            "owner": "paperboi",
+            "repo": "kindle2notion",
+            "stars": 965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kindle-highlights",
+          "description": "A Ruby gem for collecting your Kindle hightlights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-04-04T01:12:01Z",
+            "owner": "speric",
+            "repo": "kindle-highlights",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marginalia",
+          "description": "Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T06:18:49Z",
+            "owner": "VforVitorio",
+            "repo": "marginalia",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kindle Comic Converter",
+          "description": "(Official) - A Python app to convert comic files to e-books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T01:42:46Z",
+            "owner": "ciromattia",
+            "repo": "kcc",
+            "stars": 5502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KindleEar",
+          "description": "An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T17:05:00Z",
+            "owner": "cdhigh",
+            "repo": "KindleEar",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KindleBookMaker",
+          "description": "A kindle book generator whose data comes from uri contents, rss sources or local files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-13T09:26:00Z",
+            "owner": "barretlee",
+            "repo": "kindleBookMaker",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kindlefodder",
+          "description": "A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-04-12T06:36:01Z",
+            "owner": "danchoi",
+            "repo": "kindlefodder",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhihuToKindle",
+          "description": "An app to send answers from zhihu.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-20T23:14:03Z",
+            "owner": "Rockyzsu",
+            "repo": "zhihuToKindle",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hcc",
+          "description": "An online tool for convert Hcomic detail page's images into MOBI format e-books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-12T07:19:49Z",
+            "owner": "ystyle",
+            "repo": "kas",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Generator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KindleUnpack",
+          "description": "An app to unpack Amazon / Kindlegen generated ebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T16:45:46Z",
+            "owner": "kevinhendricks",
+            "repo": "KindleUnpack",
+            "stars": 1096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kindle Clippings Cleaner",
+          "description": "Remove duplicated entries from your clippings.txt for usage in third-party services like Readwise",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-06T21:48:35Z",
+            "owner": "flawnn",
+            "repo": "KindleClippingsCleaner",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kindle_download_helper",
+          "description": "A tool to download books from Amazon.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-02-15T01:29:13Z",
+            "owner": "yihong0618",
+            "repo": "Kindle_download_helper",
+            "stars": 2689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geektime_dl",
+          "description": "A tool to generate books from Geektime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T14:39:27Z",
+            "owner": "jachinlin",
+            "repo": "geektime_dl",
+            "stars": 1380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SICP-kindle",
+          "description": "The Kindle ebook of Structure and Interpretation of Computer Programs, 2nd Edition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-07-10T17:42:22Z",
+            "owner": "twcamper",
+            "repo": "sicp-kindle",
+            "stars": 957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kindle Open Books",
+          "description": "A tool to generate opensource books from Calibre recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-27T19:30:29Z",
+            "owner": "ericzhang-cn",
+            "repo": "kindle-open-books",
+            "stars": 811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KindleHelper",
+          "description": "A Windows app to download Chinese web fiction.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-06-22T19:28:58Z",
+            "owner": "Quanwei1992",
+            "repo": "KindleHelper",
+            "stars": 762
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kindle Weather Display",
+          "description": "(Achieved) - A tool to display weather only on Kindle.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-07-01T02:49:51Z",
+            "owner": "mpetroff",
+            "repo": "kindle-weather-display",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kindle Side Card",
+          "description": "A local-first KUAL side display for dashboards and desktop status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T22:14:24Z",
+            "owner": "perduewu-ops",
+            "repo": "kindle-side-card",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:24:50.201Z",
+    "original_repository": "inchei/awesome-kindle",
+    "original_repository_sha": "ac3ee30545612cb0a6e7347eaa5ae4ba25e7c3cf",
+    "enhanced_repository": "enhansome/enhansome-kindle",
+    "enhanced_repository_description": null,
+    "title": "Awesome Kindle with stars"
+  }
+}
