@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:13:47Z",
+            "last_commit": "2026-08-16T01:32:44Z",
             "owner": "kovidgoyal",
             "repo": "calibre",
-            "stars": 25647
+            "stars": 25656
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-10T01:42:46Z",
             "owner": "ciromattia",
             "repo": "kcc",
-            "stars": 5515
+            "stars": 5521
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-14T15:58:43Z",
             "owner": "cdhigh",
             "repo": "KindleEar",
-            "stars": 2860
+            "stars": 2861
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-05-21T16:45:46Z",
             "owner": "kevinhendricks",
             "repo": "KindleUnpack",
-            "stars": 1096
+            "stars": 1097
           }
         },
         {
@@ -303,7 +303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:36:29.724Z",
+    "last_updated": "2026-08-16T13:37:59.069Z",
     "original_repository": "inchei/awesome-kindle",
     "original_repository_sha": "ac3ee30545612cb0a6e7347eaa5ae4ba25e7c3cf",
     "enhanced_repository": "enhansome/enhansome-kindle",
