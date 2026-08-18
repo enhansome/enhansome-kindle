@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:36:51Z",
+            "last_commit": "2026-08-18T06:42:55Z",
             "owner": "kovidgoyal",
             "repo": "calibre",
-            "stars": 25663
+            "stars": 25677
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-05-25T22:14:24Z",
             "owner": "perduewu-ops",
             "repo": "kindle-side-card",
-            "stars": 36
+            "stars": 37
           }
         }
       ],
@@ -303,7 +303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:45:28.732Z",
+    "last_updated": "2026-08-18T13:49:02.526Z",
     "original_repository": "inchei/awesome-kindle",
     "original_repository_sha": "ac3ee30545612cb0a6e7347eaa5ae4ba25e7c3cf",
     "enhanced_repository": "enhansome/enhansome-kindle",
