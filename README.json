@@ -1,198 +1,214 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Calibre",
+              "description": "A famous ebook manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10332822,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:46:38Z",
+                "owner": "kovidgoyal",
+                "repo": "calibre",
+                "stars": 25684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kindle2notion",
+              "description": "A program to copy all your Kindle highlights and notes to a page in Notion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289133838,
+                "language": "Python",
+                "last_commit": "2023-12-23T08:22:35Z",
+                "owner": "paperboi",
+                "repo": "kindle2notion",
+                "stars": 965
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kindle-highlights",
+              "description": "A Ruby gem for collecting your Kindle hightlights.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3020573,
+                "language": "Ruby",
+                "last_commit": "2020-04-04T01:12:01Z",
+                "owner": "speric",
+                "repo": "kindle-highlights",
+                "stars": 577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "marginalia",
+              "description": "Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276324054,
+                "language": "Python",
+                "last_commit": "2026-08-10T06:18:49Z",
+                "owner": "VforVitorio",
+                "repo": "marginalia",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Manager"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kindle Comic Converter",
+              "description": "(Official) - A Python app to convert comic files to e-books.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6938242,
+                "language": "Python",
+                "last_commit": "2026-08-17T01:44:07Z",
+                "owner": "ciromattia",
+                "repo": "kcc",
+                "stars": 5532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KindleEar",
+              "description": "An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11188320,
+                "language": "Python",
+                "last_commit": "2026-08-14T15:58:43Z",
+                "owner": "cdhigh",
+                "repo": "KindleEar",
+                "stars": 2863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KindleBookMaker",
+              "description": "A kindle book generator whose data comes from uri contents, rss sources or local files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59134514,
+                "language": "JavaScript",
+                "last_commit": "2022-02-13T09:26:00Z",
+                "owner": "barretlee",
+                "repo": "kindleBookMaker",
+                "stars": 413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kindlefodder",
+              "description": "A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3227220,
+                "language": "Ruby",
+                "last_commit": "2023-04-12T06:36:01Z",
+                "owner": "danchoi",
+                "repo": "kindlefodder",
+                "stars": 373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zhihuToKindle",
+              "description": "An app to send answers from zhihu.com.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58626763,
+                "language": "Python",
+                "last_commit": "2020-01-20T23:14:03Z",
+                "owner": "Rockyzsu",
+                "repo": "zhihuToKindle",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hcc",
+              "description": "An online tool for convert Hcomic detail page's images into MOBI format e-books.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240754602,
+                "language": "JavaScript",
+                "last_commit": "2024-03-12T07:19:49Z",
+                "owner": "ystyle",
+                "repo": "kas",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generator"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KindleUnpack",
+              "description": "An app to unpack Amazon / Kindlegen generated ebooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25229009,
+                "language": "Python",
+                "last_commit": "2026-05-21T16:45:46Z",
+                "owner": "kevinhendricks",
+                "repo": "KindleUnpack",
+                "stars": 1097
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kindle Clippings Cleaner",
+              "description": "Remove duplicated entries from your clippings.txt for usage in third-party services like Readwise",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522058001,
+                "language": "JavaScript",
+                "last_commit": "2022-08-06T21:48:35Z",
+                "owner": "flawnn",
+                "repo": "KindleClippingsCleaner",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
       "title": "Ebook Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Calibre",
-          "description": "A famous ebook manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T06:42:55Z",
-            "owner": "kovidgoyal",
-            "repo": "calibre",
-            "stars": 25677
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kindle2notion",
-          "description": "A program to copy all your Kindle highlights and notes to a page in Notion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-23T08:22:35Z",
-            "owner": "paperboi",
-            "repo": "kindle2notion",
-            "stars": 965
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kindle-highlights",
-          "description": "A Ruby gem for collecting your Kindle hightlights.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2020-04-04T01:12:01Z",
-            "owner": "speric",
-            "repo": "kindle-highlights",
-            "stars": 577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "marginalia",
-          "description": "Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T06:18:49Z",
-            "owner": "VforVitorio",
-            "repo": "marginalia",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Manager"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Kindle Comic Converter",
-          "description": "(Official) - A Python app to convert comic files to e-books.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T01:44:07Z",
-            "owner": "ciromattia",
-            "repo": "kcc",
-            "stars": 5525
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KindleEar",
-          "description": "An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T15:58:43Z",
-            "owner": "cdhigh",
-            "repo": "KindleEar",
-            "stars": 2862
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KindleBookMaker",
-          "description": "A kindle book generator whose data comes from uri contents, rss sources or local files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-02-13T09:26:00Z",
-            "owner": "barretlee",
-            "repo": "kindleBookMaker",
-            "stars": 413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kindlefodder",
-          "description": "A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-04-12T06:36:01Z",
-            "owner": "danchoi",
-            "repo": "kindlefodder",
-            "stars": 373
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zhihuToKindle",
-          "description": "An app to send answers from zhihu.com.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-01-20T23:14:03Z",
-            "owner": "Rockyzsu",
-            "repo": "zhihuToKindle",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hcc",
-          "description": "An online tool for convert Hcomic detail page's images into MOBI format e-books.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-12T07:19:49Z",
-            "owner": "ystyle",
-            "repo": "kas",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Generator"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KindleUnpack",
-          "description": "An app to unpack Amazon / Kindlegen generated ebooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-21T16:45:46Z",
-            "owner": "kevinhendricks",
-            "repo": "KindleUnpack",
-            "stars": 1097
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kindle Clippings Cleaner",
-          "description": "Remove duplicated entries from your clippings.txt for usage in third-party services like Readwise",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-08-06T21:48:35Z",
-            "owner": "flawnn",
-            "repo": "KindleClippingsCleaner",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -201,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 500298252,
             "language": "Python",
             "last_commit": "2025-02-15T01:29:13Z",
             "owner": "yihong0618",
@@ -215,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132898867,
             "language": "Python",
             "last_commit": "2026-03-29T14:39:27Z",
             "owner": "jachinlin",
@@ -229,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 465867,
             "language": "HTML",
             "last_commit": "2017-07-10T17:42:22Z",
             "owner": "twcamper",
@@ -243,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11308901,
             "language": "Python",
             "last_commit": "2020-01-27T19:30:29Z",
             "owner": "ericzhang-cn",
@@ -257,18 +277,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 63148748,
             "language": "C#",
             "last_commit": "2022-06-22T19:28:58Z",
             "owner": "Quanwei1992",
             "repo": "KindleHelper",
-            "stars": 764
+            "stars": 765
           }
         }
       ],
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -277,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8014353,
             "language": "Python",
             "last_commit": "2015-07-01T02:49:51Z",
             "owner": "mpetroff",
@@ -291,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1248551973,
             "language": "Python",
             "last_commit": "2026-05-25T22:14:24Z",
             "owner": "perduewu-ops",
@@ -303,8 +326,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:49:02.526Z",
+    "last_updated": "2026-08-19T12:37:05.376Z",
     "original_repository": "inchei/awesome-kindle",
+    "original_repository_id": 240697853,
     "original_repository_sha": "ac3ee30545612cb0a6e7347eaa5ae4ba25e7c3cf",
     "enhanced_repository": "enhansome/enhansome-kindle",
     "enhanced_repository_description": null,
