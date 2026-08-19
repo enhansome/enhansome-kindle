@@ -6,7 +6,7 @@ Suggestions and contributions are welcome.
 
 ## Software
 
-* [Koreader](https://github.com/koreader/koreader) ⭐ 29,107 | 🐛 1,307 | 🌐 Lua | 📅 2026-08-19 - An ebook reader app running on kindle.
+* [Koreader](https://github.com/koreader/koreader) ⭐ 29,109 | 🐛 1,307 | 🌐 Lua | 📅 2026-08-19 - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) ⚠️ Archived - A PDF viewer on Koreader.
 
 ## Ebook Tools
