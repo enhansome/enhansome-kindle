@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-21T03:53:55Z",
+                "last_commit": "2026-08-22T07:17:00Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25696
+                "stars": 25704
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 6938242,
                 "language": "Python",
-                "last_commit": "2026-08-21T06:45:43Z",
+                "last_commit": "2026-08-21T16:05:47Z",
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5544
+                "stars": 5545
               }
             },
             {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:51:22.034Z",
+    "last_updated": "2026-08-22T13:37:52.109Z",
     "original_repository": "inchei/awesome-kindle",
     "original_repository_id": 240697853,
     "original_repository_sha": "ac3ee30545612cb0a6e7347eaa5ae4ba25e7c3cf",
