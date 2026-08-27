@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:48:40Z",
+                "last_commit": "2026-08-27T08:54:21Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25733
+                "stars": 25742
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2023-12-23T08:22:35Z",
                 "owner": "paperboi",
                 "repo": "kindle2notion",
-                "stars": 965
+                "stars": 964
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 6938242,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:25:46Z",
+                "last_commit": "2026-08-26T20:06:10Z",
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5555
+                "stars": 5559
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2022-02-13T09:26:00Z",
                 "owner": "barretlee",
                 "repo": "kindleBookMaker",
-                "stars": 414
+                "stars": 415
               }
             },
             {
@@ -326,9 +326,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:58:56.351Z",
-    "original_repository": "inchei/awesome-kindle",
-    "original_repository_id": 240697853,
+    "last_updated": "2026-08-27T11:48:56.727Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 240697853,
+      "language": null,
+      "last_commit": "2026-06-25T00:34:34Z",
+      "owner": "inchei",
+      "repo": "awesome-kindle",
+      "stars": 79
+    },
     "original_repository_sha": "ac3ee30545612cb0a6e7347eaa5ae4ba25e7c3cf",
     "enhanced_repository": "enhansome/enhansome-kindle",
     "enhanced_repository_description": null,
