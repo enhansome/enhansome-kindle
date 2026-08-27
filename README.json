@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:54:21Z",
+                "last_commit": "2026-08-27T15:56:25Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25742
+                "stars": 25747
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-26T20:06:10Z",
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5559
+                "stars": 5563
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-14T15:58:43Z",
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2865
+                "stars": 2866
               }
             },
             {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:56.727Z",
+    "last_updated": "2026-08-27T22:55:00.409Z",
     "original_repository_info": {
       "archived": false,
       "id": 240697853,
