@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T03:38:08Z",
+                "last_commit": "2026-08-29T09:08:56Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25753,
+                "stars": 25760,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -113,7 +113,7 @@
                 "open_issues": 14,
                 "owner": "VforVitorio",
                 "repo": "marginalia",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "e-ink",
                   "fastapi",
@@ -155,7 +155,7 @@
                 "open_issues": 55,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5572,
+                "stars": 5574,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -190,7 +190,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2867,
+                "stars": 2868,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -502,7 +502,7 @@
             "open_issues": 1,
             "owner": "perduewu-ops",
             "repo": "kindle-side-card",
-            "stars": 38,
+            "stars": 37,
             "topics": [
               "ai-agents",
               "ambient-display",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:01.549Z",
+    "last_updated": "2026-08-29T17:04:05.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -544,7 +544,7 @@
       "open_issues": 0,
       "owner": "inchei",
       "repo": "awesome-kindle",
-      "stars": 79,
+      "stars": 80,
       "topics": [
         "awesome",
         "awesome-list",
