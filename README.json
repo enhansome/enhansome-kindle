@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official source code repository for the calibre ebook manager",
+                "homepage": "https://calibre-ebook.com",
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-28T20:13:43Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:38:08Z",
+                "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25750
+                "stars": 25753,
+                "topics": [
+                  "calibre",
+                  "ebook",
+                  "ebook-formats",
+                  "ebook-manager",
+                  "ebook-reader",
+                  "ebooks",
+                  "epub",
+                  "epub-generation",
+                  "kindle",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -28,12 +44,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export all clippings from your Kindle device to a database in Notion.",
+                "homepage": "https://pypi.org/project/kindle2notion/",
                 "id": 289133838,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-23T08:22:35Z",
+                "open_issues": 22,
                 "owner": "paperboi",
                 "repo": "kindle2notion",
-                "stars": 964
+                "stars": 964,
+                "topics": [
+                  "education",
+                  "kindle",
+                  "kindle-clippings",
+                  "kindle-highlights",
+                  "note-taking",
+                  "notes",
+                  "notion",
+                  "notion-api",
+                  "notion-py",
+                  "productivity",
+                  "reading",
+                  "reading-notes",
+                  "second-brain"
+                ]
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -44,12 +79,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get your Kindle highlights.",
+                "homepage": "https://rubygems.org/gems/kindle-highlights",
                 "id": 3020573,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-04-04T01:12:01Z",
+                "open_issues": 11,
                 "owner": "speric",
                 "repo": "kindle-highlights",
-                "stars": 577
+                "stars": 577,
+                "topics": [
+                  "books",
+                  "kindle",
+                  "reading"
+                ]
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -60,12 +104,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kindle Scribe handwritten notebooks -> Obsidian Markdown, with OCR and human review.",
+                "homepage": "https://vforvitorio.github.io/marginalia/",
                 "id": 1276324054,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T06:14:40Z",
+                "open_issues": 14,
                 "owner": "VforVitorio",
                 "repo": "marginalia",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "e-ink",
+                  "fastapi",
+                  "handwriting-recognition",
+                  "kindle-scribe",
+                  "local-llm",
+                  "markdown",
+                  "note-taking",
+                  "obsidian",
+                  "ocr",
+                  "ollama",
+                  "pkm",
+                  "react",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             }
@@ -83,12 +146,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.",
+                "homepage": null,
                 "id": 6938242,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2026-08-28T21:53:11Z",
+                "open_issues": 55,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5571
+                "stars": 5572,
+                "topics": [
+                  "azw3",
+                  "cbz",
+                  "comics",
+                  "eink",
+                  "epub",
+                  "kindle",
+                  "kobo",
+                  "koreader",
+                  "manga",
+                  "pdf",
+                  "remarkable-tablet",
+                  "webtoon",
+                  "webtoons"
+                ]
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -99,12 +181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aggregates RSS and web content(Calibre recipe), sends to Kindle, and includes an e-ink optimized online reader.",
+                "homepage": "http://cdhigh.github.io/KindleEar/",
                 "id": 11188320,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T15:58:43Z",
+                "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2867
+                "stars": 2867,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -115,12 +202,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.",
+                "homepage": null,
                 "id": 59134514,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-13T09:26:00Z",
+                "open_issues": 1,
                 "owner": "barretlee",
                 "repo": "kindleBookMaker",
-                "stars": 415
+                "stars": 415,
+                "topics": [
+                  "book-generator",
+                  "kindle",
+                  "kindlegen",
+                  "rss",
+                  "spider"
+                ]
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -131,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring web docs to the Kindle",
+                "homepage": null,
                 "id": 3227220,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-04-12T06:36:01Z",
+                "open_issues": 17,
                 "owner": "danchoi",
                 "repo": "kindlefodder",
-                "stars": 373
+                "stars": 373,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -147,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "模拟登陆知乎，获取关注问题的id下 所有答案，并推送到kindle电子书",
+                "homepage": "http://30daydo.com/article/7",
                 "id": 58626763,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-20T23:14:03Z",
+                "open_issues": 1,
                 "owner": "Rockyzsu",
                 "repo": "zhihuToKindle",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -163,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Server for KAF(Kindle Assistant F)",
+                "homepage": null,
                 "id": 240754602,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-12T07:19:49Z",
+                "open_issues": 1,
                 "owner": "ystyle",
                 "repo": "kas",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             }
@@ -186,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "python based software to unpack Amazon / Kindlegen generated ebooks",
+                "homepage": null,
                 "id": 25229009,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-21T16:45:46Z",
+                "open_issues": 5,
                 "owner": "kevinhendricks",
                 "repo": "KindleUnpack",
-                "stars": 1097
+                "stars": 1097,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             },
@@ -202,12 +320,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple JS Script to clean duplicated entries in \"My Clippings.txt\" of your Kindle",
+                "homepage": null,
                 "id": 522058001,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-08-06T21:48:35Z",
+                "open_issues": 1,
                 "owner": "flawnn",
                 "repo": "KindleClippingsCleaner",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "kindle",
+                  "kindle-books",
+                  "kindle-clippings",
+                  "kindle-highlights"
+                ]
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
             }
@@ -229,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Download all your kindle books script.",
+            "homepage": null,
             "id": 500298252,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-15T01:29:13Z",
+            "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2689
+            "stars": 2689,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
         },
@@ -245,12 +378,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "把极客时间装进 Kindle",
+            "homepage": null,
             "id": 132898867,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-29T14:39:27Z",
+            "open_issues": 1,
             "owner": "jachinlin",
             "repo": "geektime_dl",
-            "stars": 1381
+            "stars": 1381,
+            "topics": [
+              "ebook",
+              "geektime",
+              "kindle"
+            ]
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
         },
@@ -261,12 +403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structure and Interpretation of Computer Programs, 2nd Edition, by  Harold Abelson and Gerald Jay Sussman with Julie Sussman, The MIT Press.\nformatted and built for mobi/kindle",
+            "homepage": "http://mitpress.mit.edu/sicp/full-text/book/book.html",
             "id": 465867,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-07-10T17:42:22Z",
+            "open_issues": 0,
             "owner": "twcamper",
             "repo": "sicp-kindle",
-            "stars": 957
+            "stars": 957,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
         },
@@ -277,12 +424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project is created to convert open source materials to kindle supported format",
+            "homepage": null,
             "id": 11308901,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-01-27T19:30:29Z",
+            "open_issues": 8,
             "owner": "ericzhang-cn",
             "repo": "kindle-open-books",
-            "stars": 811
+            "stars": 811,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
         },
@@ -293,12 +445,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "全网小说搜索,下载.可自动生成mobi格式小说.",
+            "homepage": null,
             "id": 63148748,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-06-22T19:28:58Z",
+            "open_issues": 8,
             "owner": "Quanwei1992",
             "repo": "KindleHelper",
-            "stars": 765
+            "stars": 765,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
         }
@@ -315,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "https://mpetroff.net/2012/09/kindle-weather-display/",
+            "homepage": null,
             "id": 8014353,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-07-01T02:49:51Z",
+            "open_issues": 0,
             "owner": "mpetroff",
             "repo": "kindle-weather-display",
-            "stars": 292
+            "stars": 292,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
         },
@@ -331,12 +493,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn a jailbroken Kindle into a local e-ink side display.",
+            "homepage": "https://github.com/perduewu-ops/kindle-side-card",
             "id": 1248551973,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-25T22:14:24Z",
+            "open_issues": 1,
             "owner": "perduewu-ops",
             "repo": "kindle-side-card",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "ai-agents",
+              "ambient-display",
+              "dashboard",
+              "desktop-widget",
+              "e-ink",
+              "eink-dashboard",
+              "eips",
+              "epaper",
+              "homelab",
+              "jailbreak",
+              "kindle",
+              "kindle-dashboard",
+              "kindle-jailbreak",
+              "kindle-paperwhite",
+              "kual",
+              "local-first",
+              "python",
+              "python-dashboard",
+              "side-display"
+            ]
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
         }
@@ -345,15 +532,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:59:50.200Z",
+    "last_updated": "2026-08-29T05:00:01.549Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
+      "homepage": null,
       "id": 240697853,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-25T00:34:34Z",
+      "open_issues": 0,
       "owner": "inchei",
       "repo": "awesome-kindle",
-      "stars": 79
+      "stars": 79,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "kindle"
+      ]
     },
     "original_repository_sha": "ac3ee30545612cb0a6e7347eaa5ae4ba25e7c3cf",
     "enhanced_repository": "enhansome/enhansome-kindle",
