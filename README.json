@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T16:29:29Z",
+                "last_commit": "2026-08-31T16:57:58Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25774,
+                "stars": 25783,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -151,11 +151,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-08-29T23:21:41Z",
-                "open_issues": 55,
+                "last_commit": "2026-08-31T01:14:02Z",
+                "open_issues": 54,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5582,
+                "stars": 5589,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -308,7 +308,7 @@
                 "open_issues": 5,
                 "owner": "kevinhendricks",
                 "repo": "KindleUnpack",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -325,8 +325,8 @@
                 "id": 522058001,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2022-08-06T21:48:35Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-31T14:38:59Z",
+                "open_issues": 0,
                 "owner": "flawnn",
                 "repo": "KindleClippingsCleaner",
                 "stars": 5,
@@ -366,7 +366,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2689,
+            "stars": 2688,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -502,7 +502,7 @@
             "open_issues": 1,
             "owner": "perduewu-ops",
             "repo": "kindle-side-card",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ai-agents",
               "ambient-display",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:19:47.740Z",
+    "last_updated": "2026-08-31T19:28:45.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
