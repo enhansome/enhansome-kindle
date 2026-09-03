@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T09:19:58Z",
+                "last_commit": "2026-09-03T07:53:40Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25799,
+                "stars": 25807,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -151,11 +151,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-08-31T01:14:02Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-03T02:49:24Z",
+                "open_issues": 55,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5600,
+                "stars": 5604,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -186,11 +186,11 @@
                 "id": 11188320,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T16:05:48Z",
+                "last_commit": "2026-09-03T13:37:00Z",
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2868,
+                "stars": 2870,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -308,7 +308,7 @@
                 "open_issues": 5,
                 "owner": "kevinhendricks",
                 "repo": "KindleUnpack",
-                "stars": 1097,
+                "stars": 1098,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -366,7 +366,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2688,
+            "stars": 2687,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:06:20.029Z",
+    "last_updated": "2026-09-03T17:00:23.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
