@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T07:53:40Z",
+                "last_commit": "2026-09-04T00:50:37Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25807,
+                "stars": 25817,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -53,7 +53,7 @@
                 "open_issues": 22,
                 "owner": "paperboi",
                 "repo": "kindle2notion",
-                "stars": 965,
+                "stars": 964,
                 "topics": [
                   "education",
                   "kindle",
@@ -151,11 +151,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-09-03T02:49:24Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-04T06:08:03Z",
+                "open_issues": 48,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5604,
+                "stars": 5605,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -190,7 +190,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2870,
+                "stars": 2868,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -502,7 +502,7 @@
             "open_issues": 1,
             "owner": "perduewu-ops",
             "repo": "kindle-side-card",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "ai-agents",
               "ambient-display",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:00:23.618Z",
+    "last_updated": "2026-09-04T16:49:24.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
