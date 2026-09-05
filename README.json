@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T00:50:37Z",
+                "last_commit": "2026-09-05T03:59:32Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25817,
+                "stars": 25825,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -155,7 +155,7 @@
                 "open_issues": 48,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5605,
+                "stars": 5613,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -186,11 +186,11 @@
                 "id": 11188320,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T13:37:00Z",
+                "last_commit": "2026-09-05T01:37:03Z",
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2868,
+                "stars": 2867,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -238,7 +238,7 @@
                 "open_issues": 17,
                 "owner": "danchoi",
                 "repo": "kindlefodder",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "mpetroff",
             "repo": "kindle-weather-display",
-            "stars": 292,
+            "stars": 293,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:49:24.292Z",
+    "last_updated": "2026-09-05T15:56:35.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
