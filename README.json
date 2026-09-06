@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T03:59:32Z",
+                "last_commit": "2026-09-06T11:35:25Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25825,
+                "stars": 25830,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -53,7 +53,7 @@
                 "open_issues": 22,
                 "owner": "paperboi",
                 "repo": "kindle2notion",
-                "stars": 964,
+                "stars": 965,
                 "topics": [
                   "education",
                   "kindle",
@@ -152,10 +152,10 @@
                 "language": "Python",
                 "license": "ISC",
                 "last_commit": "2026-09-04T06:08:03Z",
-                "open_issues": 48,
+                "open_issues": 46,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5613,
+                "stars": 5618,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -190,7 +190,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2867,
+                "stars": 2868,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -454,7 +454,7 @@
             "open_issues": 8,
             "owner": "Quanwei1992",
             "repo": "KindleHelper",
-            "stars": 765,
+            "stars": 767,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:56:35.073Z",
+    "last_updated": "2026-09-06T16:09:08.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
