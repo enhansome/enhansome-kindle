@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T16:24:51Z",
+                "last_commit": "2026-09-08T08:18:52Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25842,
+                "stars": 25862,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -155,7 +155,7 @@
                 "open_issues": 46,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5626,
+                "stars": 5630,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -308,7 +308,7 @@
                 "open_issues": 5,
                 "owner": "kevinhendricks",
                 "repo": "KindleUnpack",
-                "stars": 1098,
+                "stars": 1099,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -366,7 +366,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2687,
+            "stars": 2686,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -454,7 +454,7 @@
             "open_issues": 8,
             "owner": "Quanwei1992",
             "repo": "KindleHelper",
-            "stars": 767,
+            "stars": 768,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:13:11.358Z",
+    "last_updated": "2026-09-08T17:12:55.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -540,8 +540,8 @@
       "id": 240697853,
       "language": null,
       "license": null,
-      "last_commit": "2026-06-25T00:34:34Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-07T23:15:25Z",
+      "open_issues": 0,
       "owner": "inchei",
       "repo": "awesome-kindle",
       "stars": 80,
@@ -551,7 +551,7 @@
         "kindle"
       ]
     },
-    "original_repository_sha": "ac3ee30545612cb0a6e7347eaa5ae4ba25e7c3cf",
+    "original_repository_sha": "a409ff9e6d38ccd8c2d7eae4d7da69d2000f3881",
     "enhanced_repository": "enhansome/enhansome-kindle",
     "enhanced_repository_description": null,
     "title": "Awesome Kindle with stars"
