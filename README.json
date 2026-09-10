@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T14:07:21Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-10T16:30:23Z",
+                "open_issues": 7,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25876,
+                "stars": 25878,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -155,7 +155,7 @@
                 "open_issues": 46,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5634,
+                "stars": 5640,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -366,7 +366,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2686,
+            "stars": 2685,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -454,7 +454,7 @@
             "open_issues": 8,
             "owner": "Quanwei1992",
             "repo": "KindleHelper",
-            "stars": 768,
+            "stars": 767,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -481,7 +481,7 @@
             "open_issues": 0,
             "owner": "mpetroff",
             "repo": "kindle-weather-display",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:07:16.198Z",
+    "last_updated": "2026-09-10T16:57:44.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
