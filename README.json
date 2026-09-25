@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T13:58:25Z",
+                "last_commit": "2026-09-25T15:18:12Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26005,
+                "stars": 26012,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -151,11 +151,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-09-24T00:58:18Z",
+                "last_commit": "2026-09-24T19:43:14Z",
                 "open_issues": 47,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5685,
+                "stars": 5691,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -190,7 +190,7 @@
                 "open_issues": 1,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2869,
+                "stars": 2870,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -454,7 +454,7 @@
             "open_issues": 8,
             "owner": "Quanwei1992",
             "repo": "KindleHelper",
-            "stars": 769,
+            "stars": 771,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:49:51.613Z",
+    "last_updated": "2026-09-25T17:53:33.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
