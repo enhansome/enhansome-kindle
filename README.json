@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T06:10:10Z",
+                "last_commit": "2026-09-28T16:07:49Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26025,
+                "stars": 26032,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -151,11 +151,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-09-26T00:32:32Z",
+                "last_commit": "2026-09-28T15:35:44Z",
                 "open_issues": 44,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5695,
+                "stars": 5700,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -187,10 +187,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-27T09:45:47Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2871,
+                "stars": 2872,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:39:16.326Z",
+    "last_updated": "2026-09-28T20:04:54.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -540,7 +540,7 @@
       "id": 240697853,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-12T02:14:42Z",
+      "last_commit": "2026-09-28T02:14:38Z",
       "open_issues": 1,
       "owner": "inchei",
       "repo": "awesome-kindle",
@@ -551,7 +551,7 @@
         "kindle"
       ]
     },
-    "original_repository_sha": "aad938a2d8c0355fa7752ba851d7d38ca47de488",
+    "original_repository_sha": "7a2085276d2a644b725e446f8a12f4e66bc84863",
     "enhanced_repository": "enhansome/enhansome-kindle",
     "enhanced_repository_description": null,
     "title": "Awesome Kindle with stars"
