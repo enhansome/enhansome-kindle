@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T02:00:04Z",
+                "last_commit": "2026-10-01T15:42:28Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26046,
+                "stars": 26052,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -152,10 +152,10 @@
                 "language": "Python",
                 "license": "ISC",
                 "last_commit": "2026-09-30T00:50:17Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5741,
+                "stars": 5749,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -190,7 +190,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2874,
+                "stars": 2875,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -308,7 +308,7 @@
                 "open_issues": 5,
                 "owner": "kevinhendricks",
                 "repo": "KindleUnpack",
-                "stars": 1101,
+                "stars": 1102,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -366,7 +366,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2683,
+            "stars": 2684,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:22:20.165Z",
+    "last_updated": "2026-10-01T18:47:27.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
