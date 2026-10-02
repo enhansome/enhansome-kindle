@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T15:42:28Z",
+                "last_commit": "2026-10-02T14:54:32Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26052,
+                "stars": 26055,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -155,7 +155,7 @@
                 "open_issues": 45,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5749,
+                "stars": 5762,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -366,7 +366,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2684,
+            "stars": 2683,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:47:27.123Z",
+    "last_updated": "2026-10-02T18:20:02.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
