@@ -17,7 +17,7 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T14:54:32Z",
+                "last_commit": "2026-10-03T04:32:41Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
@@ -155,7 +155,7 @@
                 "open_issues": 45,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5762,
+                "stars": 5767,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -412,7 +412,7 @@
             "open_issues": 0,
             "owner": "twcamper",
             "repo": "sicp-kindle",
-            "stars": 956,
+            "stars": 952,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:20:02.233Z",
+    "last_updated": "2026-10-03T04:52:47.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
