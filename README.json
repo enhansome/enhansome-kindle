@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26072,
+                "stars": 26074,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -155,7 +155,7 @@
                 "open_issues": 45,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5781,
+                "stars": 5782,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -387,7 +387,7 @@
             "open_issues": 1,
             "owner": "jachinlin",
             "repo": "geektime_dl",
-            "stars": 1380,
+            "stars": 1379,
             "topics": [
               "ebook",
               "geektime",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:34.038Z",
+    "last_updated": "2026-10-06T18:52:15.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
