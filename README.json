@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T15:31:04Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-10T02:36:15Z",
+                "open_issues": 9,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26109,
+                "stars": 26114,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -53,7 +53,7 @@
                 "open_issues": 22,
                 "owner": "paperboi",
                 "repo": "kindle2notion",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "education",
                   "kindle",
@@ -155,7 +155,7 @@
                 "open_issues": 46,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5793,
+                "stars": 5801,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -190,7 +190,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2875,
+                "stars": 2874,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -526,13 +526,40 @@
             ]
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
+        },
+        {
+          "node_type": "item",
+          "title": "KindleHub Device Pack",
+          "description": "MIT-licensed KUAL extension that makes the stock browser fullscreen on a jailbroken Kindle, with power-button gestures, cover-only sleep and 229 redrawn UI icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fullscreen browser, power-button gestures and 229 redrawn icons for jailbroken Kindles. Verified on a Paperwhite 11 / 5.19.2; on other models every part checks its own file and skips what does not apply. KUAL extension, every change backed up and reversible.",
+            "homepage": null,
+            "id": 1357539243,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-10T16:11:12Z",
+            "open_issues": 0,
+            "owner": "arancool3000",
+            "repo": "kindlehub-device-pack",
+            "stars": 0,
+            "topics": [
+              "e-ink",
+              "kindle",
+              "kindle-jailbreak",
+              "koreader",
+              "kual"
+            ]
+          },
+          "first_seen": "2026-10-10T17:45:51.415Z"
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:44:32.043Z",
+    "last_updated": "2026-10-10T17:45:51.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -540,8 +567,8 @@
       "id": 240697853,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-28T02:14:38Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-10T13:37:27Z",
+      "open_issues": 3,
       "owner": "inchei",
       "repo": "awesome-kindle",
       "stars": 81,
@@ -551,7 +578,7 @@
         "kindle"
       ]
     },
-    "original_repository_sha": "7a2085276d2a644b725e446f8a12f4e66bc84863",
+    "original_repository_sha": "c79384bf6dbd690b9309fd4962b1cd70e01e5a6c",
     "enhanced_repository": "enhansome/enhansome-kindle",
     "enhanced_repository_description": null,
     "title": "Awesome Kindle with stars"
