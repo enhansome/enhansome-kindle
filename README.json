@@ -17,11 +17,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T10:11:49Z",
+                "last_commit": "2026-10-12T15:07:12Z",
                 "open_issues": 7,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26121,
+                "stars": 26126,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -151,11 +151,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-05T01:43:39Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-12T04:30:55Z",
+                "open_issues": 47,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5804,
+                "stars": 5810,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -190,7 +190,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2874,
+                "stars": 2873,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -366,7 +366,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2683,
+            "stars": 2682,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T17:59:23.298Z",
+    "last_updated": "2026-10-12T21:41:16.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -568,7 +568,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-10T13:37:27Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "inchei",
       "repo": "awesome-kindle",
       "stars": 81,
