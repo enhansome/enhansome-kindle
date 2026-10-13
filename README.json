@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26126,
+                "stars": 26137,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -53,7 +53,7 @@
                 "open_issues": 22,
                 "owner": "paperboi",
                 "repo": "kindle2notion",
-                "stars": 968,
+                "stars": 969,
                 "topics": [
                   "education",
                   "kindle",
@@ -151,11 +151,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-12T04:30:55Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-13T18:10:34Z",
+                "open_issues": 45,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5810,
+                "stars": 5811,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -190,7 +190,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2873,
+                "stars": 2872,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -387,7 +387,7 @@
             "open_issues": 1,
             "owner": "jachinlin",
             "repo": "geektime_dl",
-            "stars": 1380,
+            "stars": 1382,
             "topics": [
               "ebook",
               "geektime",
@@ -433,7 +433,7 @@
             "open_issues": 8,
             "owner": "ericzhang-cn",
             "repo": "kindle-open-books",
-            "stars": 811,
+            "stars": 810,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:41:16.229Z",
+    "last_updated": "2026-10-13T19:49:39.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -567,8 +567,8 @@
       "id": 240697853,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-10T13:37:27Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-13T08:07:01Z",
+      "open_issues": 3,
       "owner": "inchei",
       "repo": "awesome-kindle",
       "stars": 81,
@@ -578,7 +578,7 @@
         "kindle"
       ]
     },
-    "original_repository_sha": "c79384bf6dbd690b9309fd4962b1cd70e01e5a6c",
+    "original_repository_sha": "ea8b2b3a8d03f2f1dc82a243facc5535113c9bc1",
     "enhanced_repository": "enhansome/enhansome-kindle",
     "enhanced_repository_description": null,
     "title": "Awesome Kindle with stars"
