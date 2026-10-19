@@ -4,6 +4,113 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Koreader",
+          "description": "An ebook reader app running on kindle.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KindlePdfViewer",
+              "description": "A PDF viewer on Koreader.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "(DEPRECATED, please use KOReader instead) A PDF (plus DJVU, ePub, TXT, CHM, FB2, HTML...) viewer made for e-ink framebuffer devices, using muPDF, djvulibre, crengine",
+                "homepage": null,
+                "id": 2773714,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2013-08-21T09:03:22Z",
+                "open_issues": 62,
+                "owner": "koreader",
+                "repo": "kindlepdfviewer",
+                "stars": 499,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T19:12:59.950Z"
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+            "homepage": "http://koreader.rocks/",
+            "id": 8986217,
+            "language": "Lua",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-19T18:41:54Z",
+            "open_issues": 1396,
+            "owner": "koreader",
+            "repo": "koreader",
+            "stars": 30444,
+            "topics": [
+              "cbz",
+              "djvu",
+              "djvu-reflow",
+              "ebook",
+              "ebook-reader",
+              "eink",
+              "epub",
+              "ereader",
+              "fb2",
+              "kindle",
+              "kobo",
+              "luajit",
+              "opds",
+              "pdf",
+              "pdf-reflow",
+              "pocketbook",
+              "reader",
+              "reflow",
+              "remarkable-tablet",
+              "ubuntu-touch"
+            ]
+          },
+          "first_seen": "2026-10-19T19:12:59.950Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PageDrop",
+          "description": "Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The store closed. The Kindle didn't. Find books on your phone and send them over Wi-Fi to old, jailbroken Kindles running KOReader.",
+            "homepage": "https://spandan-kumar.github.io/PageDrop/",
+            "id": 1269531878,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-19T17:26:23Z",
+            "open_issues": 0,
+            "owner": "spandan-kumar",
+            "repo": "PageDrop",
+            "stars": 0,
+            "topics": [
+              "android",
+              "e-ink",
+              "e-reader",
+              "ebooks",
+              "epub",
+              "jetpack-compose",
+              "kindle",
+              "kindle-jailbreak",
+              "koreader",
+              "kotlin",
+              "mobi",
+              "opds",
+              "open-source",
+              "project-gutenberg",
+              "right-to-repair"
+            ]
+          },
+          "first_seen": "2026-10-19T19:12:59.950Z"
+        }
+      ],
+      "title": "Software"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -17,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T13:53:33Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-19T16:05:26Z",
+                "open_issues": 10,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26176,
+                "stars": 26188,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -151,11 +258,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-16T20:13:58Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-19T16:50:44Z",
+                "open_issues": 39,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5833,
+                "stars": 5840,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -186,11 +293,11 @@
                 "id": 11188320,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-18T11:14:40Z",
+                "last_commit": "2026-10-19T16:02:17Z",
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2872,
+                "stars": 2873,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -284,6 +391,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ComicScissors",
+              "description": "Splits comic & manga pages into panels and repacks them so they are readable on Kindle and other e-readers without zooming. CLI and Calibre plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Comic & manga panel splitter for e-readers — read comics panel by panel without zooming. PDF/CBZ/CBR, CLI + Calibre plugin",
+                "homepage": null,
+                "id": 1409434112,
+                "language": "Rust",
+                "license": null,
+                "last_commit": "2026-10-18T14:00:39Z",
+                "open_issues": 0,
+                "owner": "rustsky",
+                "repo": "comicscissors",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T19:12:59.950Z"
             }
           ],
           "description": null,
@@ -502,7 +630,7 @@
             "open_issues": 2,
             "owner": "perduewu-ops",
             "repo": "kindle-side-card",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "ai-agents",
               "ambient-display",
@@ -526,6 +654,35 @@
             ]
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Inkwell",
+          "description": "An Alpine Linux userspace for the jailbroken Kindle Paperwhite 3 that runs on Amazon's kernel, with its own home screen, an offline chatbot that runs SmolLM2 through llama.cpp, Doom, the first version of Minecraft, a browser, notes, a sketchpad and SSH over USB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Inkwell turns a jailbroken Kindle Paperwhite 3 into its own little Linux computer, with an AI chatbot that runs offline and Doom on e-ink.",
+            "homepage": null,
+            "id": 1423681983,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2026-10-19T09:38:38Z",
+            "open_issues": 1,
+            "owner": "pragyaangaur",
+            "repo": "Inkwell",
+            "stars": 2,
+            "topics": [
+              "alpine-linux",
+              "doom",
+              "e-ink",
+              "embedded-linux",
+              "jailbreak",
+              "kindle",
+              "llama-cpp"
+            ]
+          },
+          "first_seen": "2026-10-19T19:12:59.950Z"
         },
         {
           "node_type": "item",
@@ -559,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:26:34.601Z",
+    "last_updated": "2026-10-19T19:12:59.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -567,8 +724,8 @@
       "id": 240697853,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-13T08:07:01Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-19T09:48:01Z",
+      "open_issues": 3,
       "owner": "inchei",
       "repo": "awesome-kindle",
       "stars": 83,
@@ -578,7 +735,7 @@
         "kindle"
       ]
     },
-    "original_repository_sha": "ea8b2b3a8d03f2f1dc82a243facc5535113c9bc1",
+    "original_repository_sha": "5daf117f556830d49c8f3b4107491d07d1939676",
     "enhanced_repository": "enhansome/enhansome-kindle",
     "enhanced_repository_description": null,
     "title": "Awesome Kindle with stars"
