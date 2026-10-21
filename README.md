@@ -6,17 +6,17 @@ Suggestions and contributions are welcome.
 
 ## Software
 
-* [Koreader](https://github.com/koreader/koreader) ⭐ 30,463 | 🐛 1,387 | 🌐 Lua | 📅 2026-10-20 - An ebook reader app running on kindle.
+* [Koreader](https://github.com/koreader/koreader) ⭐ 30,500 | 🐛 1,387 | 🌐 Lua | 📅 2026-10-21 - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) ⚠️ Archived - A PDF viewer on Koreader.
-* [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-19 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
+* [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 1 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-19 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
 
 ## Ebook Tools
 
 ### Manager
 
-* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,200 | 🐛 10 | 🌐 Python | 📅 2026-10-20 - A famous ebook manager.
+* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,205 | 🐛 6 | 🌐 Python | 📅 2026-10-21 - A famous ebook manager.
 * [kindle2notion](https://github.com/paperboi/kindle2notion) ⭐ 968 | 🐛 22 | 🌐 Python | 📅 2023-12-23 - A program to copy all your Kindle highlights and notes to a page in Notion.
-* [Kindle-highlights](https://github.com/speric/kindle-highlights) ⭐ 577 | 🐛 11 | 🌐 Ruby | 📅 2020-04-04 - A Ruby gem for collecting your Kindle hightlights.
+* [Kindle-highlights](https://github.com/speric/kindle-highlights) ⭐ 578 | 🐛 11 | 🌐 Ruby | 📅 2020-04-04 - A Ruby gem for collecting your Kindle hightlights.
 * [marginalia](https://github.com/VforVitorio/marginalia) ⭐ 4 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
 * [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/) - A browser-based tool to export Kindle highlights to Markdown, CSV, or JSON. 100% local, no upload required.
 * [Lexpad](https://lexpad.app) (Website, not open source) - A vocabulary notebook with spaced repetition that imports the words you looked up on a Kindle (`vocab.db`) and highlights of up to four words from `My Clippings.txt`; AI can then add meanings and examples.
@@ -24,8 +24,8 @@ Suggestions and contributions are welcome.
 
 ### Generator
 
-* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 5,847 | 🐛 39 | 🌐 Python | 📅 2026-10-20 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
-* [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,873 | 🐛 2 | 🌐 Python | 📅 2026-10-19 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
+* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 5,855 | 🐛 39 | 🌐 Python | 📅 2026-10-21 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
+* [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,874 | 🐛 2 | 🌐 Python | 📅 2026-10-21 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) ⭐ 415 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-13 - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) ⭐ 374 | 🐛 17 | 🌐 Ruby | 📅 2023-04-12 - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
 * [zhihuToKindle](https://github.com/Rockyzsu/zhihuToKindle) ⭐ 146 | 🐛 1 | 🌐 Python | 📅 2020-01-20 - An app to send answers from zhihu.com.
@@ -35,11 +35,12 @@ Suggestions and contributions are welcome.
 * [Briefing Service — Morning Paper](https://briefing-service.wholemind.workers.dev/paper) (Website, not open source) - Hourly LLM-ranked news (AI, markets, sports, world) typeset as a multi-page PDF and delivered each morning by Send-to-Kindle or to reMarkable. Free PDF at `/v1/briefings/ai/paper.pdf`; delivery is $9/month.
 * [kdpbook.io](https://kdpbook.io) (Website, not open source) - An AI book studio for Amazon KDP: describe a book in a chat or import a manuscript, and it builds a Kindle eBook (EPUB, reflowable or fixed layout) plus the paperback interior and full-wrap cover PDFs. 2,000 free credits at signup (watermarked exports); paid plans from $25/month.
 * [Easy Book Translation](https://easybooktranslation.com) (Website, not open source) - Turns any EPUB into a bilingual (parallel-text) book: an AI translation is inserted under every paragraph, with names kept consistent and layout/images intact. Read it via Send-to-Kindle, Apple Books or Calibre. Free bilingual samples of public-domain classics; paid per book from $2.99.
+* [DuoText](https://duotext.io/parallel-text-kindle/) (Website, not open source) - Turns an EPUB, PDF or Word file into a bilingual (parallel-text) book, with a machine translation beside or under every paragraph, as EPUB, AZW3, MOBI or PDF for Kindle and Kobo. Also a free library of graded bilingual short stories in 14 languages. 50 pages free, then from $5 a month.
 * [Kindle Comic Creator](https://www.amazon.com/gp/feature.html?ie=UTF8\&docId=1001103761) - Amazon official Kindle Comic Creator.
 
 ### Others
 
-* [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) ⭐ 1,102 | 🐛 5 | 🌐 Python | 📅 2026-05-21 - An app to unpack Amazon / Kindlegen generated ebooks.
+* [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) ⭐ 1,103 | 🐛 5 | 🌐 Python | 📅 2026-05-21 - An app to unpack Amazon / Kindlegen generated ebooks.
 * [Kindle Clippings Cleaner](https://github.com/flawnn/KindleClippingsCleaner) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-31 - Remove duplicated entries from your clippings.txt for usage in third-party services like Readwise
 
 ## Resources
@@ -64,4 +65,4 @@ Suggestions and contributions are welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
