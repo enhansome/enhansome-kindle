@@ -6,15 +6,15 @@ Suggestions and contributions are welcome.
 
 ## Software
 
-* [Koreader](https://github.com/koreader/koreader) ⭐ 30,500 | 🐛 1,387 | 🌐 Lua | 📅 2026-10-21 - An ebook reader app running on kindle.
+* [Koreader](https://github.com/koreader/koreader) ⭐ 30,521 | 🐛 1,387 | 🌐 Lua | 📅 2026-10-22 - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) ⚠️ Archived - A PDF viewer on Koreader.
-* [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 1 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-19 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
+* [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 1 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-22 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
 
 ## Ebook Tools
 
 ### Manager
 
-* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,205 | 🐛 6 | 🌐 Python | 📅 2026-10-21 - A famous ebook manager.
+* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,221 | 🐛 6 | 🌐 Python | 📅 2026-10-22 - A famous ebook manager.
 * [kindle2notion](https://github.com/paperboi/kindle2notion) ⭐ 968 | 🐛 22 | 🌐 Python | 📅 2023-12-23 - A program to copy all your Kindle highlights and notes to a page in Notion.
 * [Kindle-highlights](https://github.com/speric/kindle-highlights) ⭐ 578 | 🐛 11 | 🌐 Ruby | 📅 2020-04-04 - A Ruby gem for collecting your Kindle hightlights.
 * [marginalia](https://github.com/VforVitorio/marginalia) ⭐ 4 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
@@ -24,13 +24,13 @@ Suggestions and contributions are welcome.
 
 ### Generator
 
-* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 5,855 | 🐛 39 | 🌐 Python | 📅 2026-10-21 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
-* [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,874 | 🐛 2 | 🌐 Python | 📅 2026-10-21 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
+* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 5,863 | 🐛 39 | 🌐 Python | 📅 2026-10-22 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
+* [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,874 | 🐛 3 | 🌐 Python | 📅 2026-10-21 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) ⭐ 415 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-13 - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) ⭐ 374 | 🐛 17 | 🌐 Ruby | 📅 2023-04-12 - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
 * [zhihuToKindle](https://github.com/Rockyzsu/zhihuToKindle) ⭐ 146 | 🐛 1 | 🌐 Python | 📅 2020-01-20 - An app to send answers from zhihu.com.
 * [hcc](https://github.com/ystyle/hcc) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-12 - An online tool for convert [Hcomic](https://c-upp.com/) detail page's images into MOBI format e-books.
-* [ComicScissors](https://github.com/rustsky/comicscissors) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2026-10-18 - Splits comic & manga pages into panels and repacks them so they are readable on Kindle and other e-readers without zooming. CLI and Calibre plugin.
+* [ComicScissors](https://github.com/rustsky/comicscissors) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-10-18 - Splits comic & manga pages into panels and repacks them so they are readable on Kindle and other e-readers without zooming. CLI and Calibre plugin.
 * [RSS to Kindle](https://www.rsstokindle.com/) (Website, not open source) - A hosted service to subscribe to RSS and Substack feeds and get the full articles delivered to your Kindle as a daily EPUB digest. Free for up to five articles a day.
 * [Briefing Service — Morning Paper](https://briefing-service.wholemind.workers.dev/paper) (Website, not open source) - Hourly LLM-ranked news (AI, markets, sports, world) typeset as a multi-page PDF and delivered each morning by Send-to-Kindle or to reMarkable. Free PDF at `/v1/briefings/ai/paper.pdf`; delivery is $9/month.
 * [kdpbook.io](https://kdpbook.io) (Website, not open source) - An AI book studio for Amazon KDP: describe a book in a chat or import a manuscript, and it builds a Kindle eBook (EPUB, reflowable or fixed layout) plus the paperback interior and full-wrap cover PDFs. 2,000 free credits at signup (watermarked exports); paid plans from $25/month.
@@ -65,4 +65,4 @@ Suggestions and contributions are welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

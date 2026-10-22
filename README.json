@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T17:47:20Z",
+            "last_commit": "2026-10-22T15:08:46Z",
             "open_issues": 1387,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30500,
+            "stars": 30521,
             "topics": [
               "cbz",
               "djvu",
@@ -79,8 +79,8 @@
             "id": 1269531878,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T17:26:23Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-22T11:48:33Z",
+            "open_issues": 2,
             "owner": "spandan-kumar",
             "repo": "PageDrop",
             "stars": 1,
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T15:03:05Z",
+                "last_commit": "2026-10-22T11:16:18Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26205,
+                "stars": 26221,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -258,11 +258,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-21T16:52:42Z",
+                "last_commit": "2026-10-22T04:26:33Z",
                 "open_issues": 39,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5855,
+                "stars": 5863,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -294,7 +294,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T15:48:41Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
                 "stars": 2874,
@@ -408,7 +408,7 @@
                 "open_issues": 0,
                 "owner": "rustsky",
                 "repo": "comicscissors",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-10-19T19:12:59.950Z"
@@ -662,7 +662,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Inkwell turns a jailbroken Kindle Paperwhite 3 into its own little Linux computer, with an AI chatbot that runs offline and Doom on e-ink.",
+            "description": "Inkwell turns a jailbroken Kindle Paperwhite 3 into its own little Linux computer, with an AI agent that runs offline and Doom on e-ink.",
             "homepage": null,
             "id": 1423681983,
             "language": "C",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:58:16.714Z",
+    "last_updated": "2026-10-22T17:55:06.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -728,7 +728,7 @@
       "open_issues": 3,
       "owner": "inchei",
       "repo": "awesome-kindle",
-      "stars": 84,
+      "stars": 85,
       "topics": [
         "awesome",
         "awesome-list",
