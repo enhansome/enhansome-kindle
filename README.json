@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T16:35:18Z",
+            "last_commit": "2026-10-26T14:40:42Z",
             "open_issues": 1390,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30599,
+            "stars": 30635,
             "topics": [
               "cbz",
               "djvu",
@@ -83,7 +83,7 @@
             "open_issues": 1,
             "owner": "spandan-kumar",
             "repo": "PageDrop",
-            "stars": 1,
+            "stars": 3,
             "topics": [
               "android",
               "e-ink",
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T16:35:11Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-26T16:18:39Z",
+                "open_issues": 9,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26250,
+                "stars": 26256,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -258,11 +258,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-22T04:26:33Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-26T19:01:05Z",
+                "open_issues": 40,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5874,
+                "stars": 5878,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -609,7 +609,7 @@
             "open_issues": 0,
             "owner": "mpetroff",
             "repo": "kindle-weather-display",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:00:52.524Z",
+    "last_updated": "2026-10-26T19:09:08.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",

@@ -6,15 +6,15 @@ Suggestions and contributions are welcome.
 
 ## Software
 
-* [Koreader](https://github.com/koreader/koreader) ⭐ 30,599 | 🐛 1,390 | 🌐 Lua | 📅 2026-10-25 - An ebook reader app running on kindle.
+* [Koreader](https://github.com/koreader/koreader) ⭐ 30,635 | 🐛 1,390 | 🌐 Lua | 📅 2026-10-26 - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) ⚠️ Archived - A PDF viewer on Koreader.
-* [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 1 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-25 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
+* [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 3 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-25 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
 
 ## Ebook Tools
 
 ### Manager
 
-* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,250 | 🐛 7 | 🌐 Python | 📅 2026-10-25 - A famous ebook manager.
+* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,256 | 🐛 9 | 🌐 Python | 📅 2026-10-26 - A famous ebook manager.
 * [kindle2notion](https://github.com/paperboi/kindle2notion) ⭐ 969 | 🐛 22 | 🌐 Python | 📅 2023-12-23 - A program to copy all your Kindle highlights and notes to a page in Notion.
 * [Kindle-highlights](https://github.com/speric/kindle-highlights) ⭐ 578 | 🐛 11 | 🌐 Ruby | 📅 2020-04-04 - A Ruby gem for collecting your Kindle hightlights.
 * [marginalia](https://github.com/VforVitorio/marginalia) ⭐ 4 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
@@ -24,7 +24,7 @@ Suggestions and contributions are welcome.
 
 ### Generator
 
-* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 5,874 | 🐛 41 | 🌐 Python | 📅 2026-10-22 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
+* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 5,878 | 🐛 40 | 🌐 Python | 📅 2026-10-26 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
 * [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,880 | 🐛 2 | 🌐 Python | 📅 2026-10-24 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) ⭐ 415 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-13 - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) ⭐ 374 | 🐛 17 | 🌐 Ruby | 📅 2023-04-12 - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
@@ -65,4 +65,4 @@ Suggestions and contributions are welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
