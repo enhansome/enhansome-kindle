@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T14:40:42Z",
+            "last_commit": "2026-10-27T14:03:31Z",
             "open_issues": 1390,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30635,
+            "stars": 30656,
             "topics": [
               "cbz",
               "djvu",
@@ -79,11 +79,11 @@
             "id": 1269531878,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T07:14:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-27T17:31:48Z",
+            "open_issues": 0,
             "owner": "spandan-kumar",
             "repo": "PageDrop",
-            "stars": 3,
+            "stars": 6,
             "topics": [
               "android",
               "e-ink",
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T16:18:39Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-27T16:02:27Z",
+                "open_issues": 8,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26256,
+                "stars": 26264,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -195,7 +195,7 @@
                 "open_issues": 11,
                 "owner": "speric",
                 "repo": "kindle-highlights",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "books",
                   "kindle",
@@ -258,11 +258,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-26T19:01:05Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-27T04:05:23Z",
+                "open_issues": 39,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5878,
+                "stars": 5881,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -293,11 +293,11 @@
                 "id": 11188320,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T12:53:39Z",
+                "last_commit": "2026-10-26T23:59:05Z",
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2880,
+                "stars": 2881,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -515,7 +515,7 @@
             "open_issues": 1,
             "owner": "jachinlin",
             "repo": "geektime_dl",
-            "stars": 1382,
+            "stars": 1383,
             "topics": [
               "ebook",
               "geektime",
@@ -609,7 +609,7 @@
             "open_issues": 0,
             "owner": "mpetroff",
             "repo": "kindle-weather-display",
-            "stars": 294,
+            "stars": 293,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:09:08.321Z",
+    "last_updated": "2026-10-27T18:38:40.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
