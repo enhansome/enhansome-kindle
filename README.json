@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T14:03:31Z",
+            "last_commit": "2026-10-28T18:03:39Z",
             "open_issues": 1390,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30656,
+            "stars": 30692,
             "topics": [
               "cbz",
               "djvu",
@@ -79,11 +79,11 @@
             "id": 1269531878,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T17:31:48Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-28T18:13:18Z",
+            "open_issues": 5,
             "owner": "spandan-kumar",
             "repo": "PageDrop",
-            "stars": 6,
+            "stars": 9,
             "topics": [
               "android",
               "e-ink",
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T16:02:27Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-28T17:34:53Z",
+                "open_issues": 7,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26264,
+                "stars": 26270,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -258,11 +258,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-27T04:05:23Z",
+                "last_commit": "2026-10-28T18:21:18Z",
                 "open_issues": 39,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5881,
+                "stars": 5915,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -297,7 +297,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2881,
+                "stars": 2882,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -414,7 +414,7 @@
               "first_seen": "2026-10-19T19:12:59.950Z"
             }
           ],
-          "description": null,
+          "description": "The \"generator\" here means a tool to improve existing human-made content. Do not add tools to generate content mostly written by LLM.",
           "node_type": "group",
           "title": "Generator"
         },
@@ -494,7 +494,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2681,
+            "stars": 2679,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:38:40.952Z",
+    "last_updated": "2026-10-28T18:45:55.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
@@ -724,8 +724,8 @@
       "id": 240697853,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-21T11:53:31Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-28T10:45:10Z",
+      "open_issues": 1,
       "owner": "inchei",
       "repo": "awesome-kindle",
       "stars": 85,
@@ -735,7 +735,7 @@
         "kindle"
       ]
     },
-    "original_repository_sha": "9d3a0e964f88384481983cd890f843b92c9533d1",
+    "original_repository_sha": "a09ce2b143d83b496db113cb9caa419a5c359fbe",
     "enhanced_repository": "enhansome/enhansome-kindle",
     "enhanced_repository_description": null,
     "title": "Awesome Kindle with stars"
