@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T17:20:02Z",
-            "open_issues": 1395,
+            "last_commit": "2026-10-30T16:52:48Z",
+            "open_issues": 1396,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30732,
+            "stars": 30750,
             "topics": [
               "cbz",
               "djvu",
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T15:14:10Z",
+                "last_commit": "2026-10-30T14:10:44Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26283,
+                "stars": 26290,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -160,7 +160,7 @@
                 "open_issues": 22,
                 "owner": "paperboi",
                 "repo": "kindle2notion",
-                "stars": 969,
+                "stars": 970,
                 "topics": [
                   "education",
                   "kindle",
@@ -258,11 +258,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-29T18:09:55Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-30T05:17:56Z",
+                "open_issues": 40,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5928,
+                "stars": 5935,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -494,7 +494,7 @@
             "open_issues": 33,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2679,
+            "stars": 2680,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -582,7 +582,7 @@
             "open_issues": 8,
             "owner": "Quanwei1992",
             "repo": "KindleHelper",
-            "stars": 770,
+            "stars": 772,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:54:58.252Z",
+    "last_updated": "2026-10-30T18:31:53.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
