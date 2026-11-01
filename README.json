@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T14:25:18Z",
-            "open_issues": 1395,
+            "last_commit": "2026-11-01T17:21:25Z",
+            "open_issues": 1399,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30770,
+            "stars": 30795,
             "topics": [
               "cbz",
               "djvu",
@@ -79,11 +79,11 @@
             "id": 1269531878,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T16:19:00Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-31T18:55:42Z",
+            "open_issues": 5,
             "owner": "spandan-kumar",
             "repo": "PageDrop",
-            "stars": 11,
+            "stars": 14,
             "topics": [
               "android",
               "e-ink",
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T11:21:35Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-01T13:40:39Z",
+                "open_issues": 9,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26297,
+                "stars": 26307,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -258,11 +258,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-30T19:30:13Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-31T23:45:21Z",
+                "open_issues": 40,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5939,
+                "stars": 5951,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -366,7 +366,7 @@
                 "open_issues": 1,
                 "owner": "Rockyzsu",
                 "repo": "zhihuToKindle",
-                "stars": 146,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -408,7 +408,7 @@
                 "open_issues": 0,
                 "owner": "rustsky",
                 "repo": "comicscissors",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-10-19T19:12:59.950Z"
@@ -630,7 +630,7 @@
             "open_issues": 2,
             "owner": "perduewu-ops",
             "repo": "kindle-side-card",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "ai-agents",
               "ambient-display",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:37:28.813Z",
+    "last_updated": "2026-11-01T18:21:55.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
