@@ -6,15 +6,15 @@ Suggestions and contributions are welcome.
 
 ## Software
 
-* [Koreader](https://github.com/koreader/koreader) ⭐ 30,795 | 🐛 1,399 | 🌐 Lua | 📅 2026-11-01 - An ebook reader app running on kindle.
+* [Koreader](https://github.com/koreader/koreader) ⭐ 30,822 | 🐛 1,399 | 🌐 Lua | 📅 2026-11-02 - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) ⚠️ Archived - A PDF viewer on Koreader.
-* [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 14 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-31 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
+* [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 15 | 🐛 6 | 🌐 Kotlin | 📅 2026-11-02 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
 
 ## Ebook Tools
 
 ### Manager
 
-* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,307 | 🐛 9 | 🌐 Python | 📅 2026-11-01 - A famous ebook manager.
+* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,326 | 🐛 7 | 🌐 Python | 📅 2026-11-02 - A famous ebook manager.
 * [kindle2notion](https://github.com/paperboi/kindle2notion) ⭐ 970 | 🐛 22 | 🌐 Python | 📅 2023-12-23 - A program to copy all your Kindle highlights and notes to a page in Notion.
 * [Kindle-highlights](https://github.com/speric/kindle-highlights) ⭐ 579 | 🐛 11 | 🌐 Ruby | 📅 2020-04-04 - A Ruby gem for collecting your Kindle hightlights.
 * [marginalia](https://github.com/VforVitorio/marginalia) ⭐ 4 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
@@ -32,8 +32,8 @@ Suggestions and contributions are welcome.
 
 > The "generator" here means a tool to improve existing human-made content. Do not add tools to generate content mostly written by LLM.
 
-* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 5,951 | 🐛 40 | 🌐 Python | 📅 2026-10-31 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
-* [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,882 | 🐛 2 | 🌐 Python | 📅 2026-10-30 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
+* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 5,960 | 🐛 39 | 🌐 Python | 📅 2026-11-02 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
+* [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,885 | 🐛 3 | 🌐 Python | 📅 2026-11-02 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) ⭐ 415 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-13 - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) ⭐ 374 | 🐛 17 | 🌐 Ruby | 📅 2023-04-12 - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
 * [zhihuToKindle](https://github.com/Rockyzsu/zhihuToKindle) ⭐ 145 | 🐛 1 | 🌐 Python | 📅 2020-01-20 - An app to send answers from zhihu.com.
@@ -60,7 +60,7 @@ Suggestions and contributions are welcome.
 ## Resources
 
 * [Kindle\_download\_helper](https://github.com/yihong0618/Kindle_download_helper/issues) ⚠️ Archived - A tool to download books from Amazon.
-* [geektime\_dl](https://github.com/jachinlin/geektime_dl) ⭐ 1,383 | 🐛 1 | 🌐 Python | 📅 2026-03-29 - A tool to generate books from Geektime.
+* [geektime\_dl](https://github.com/jachinlin/geektime_dl) ⭐ 1,384 | 🐛 1 | 🌐 Python | 📅 2026-03-29 - A tool to generate books from Geektime.
 * [SICP-kindle](https://github.com/twcamper/sicp-kindle) ⭐ 954 | 🐛 0 | 🌐 HTML | 📅 2017-07-10 - The Kindle ebook of Structure and Interpretation of Computer Programs, 2nd Edition.
 * [Kindle Open Books](https://github.com/ericzhang-cn/kindle-open-books) ⭐ 810 | 🐛 8 | 🌐 Python | 📅 2020-01-27 - A tool to generate opensource books from Calibre recipes.
 * [KindleHelper](https://github.com/qq573011406/KindleHelper) ⚠️ Archived - A Windows app to download Chinese web fiction.
@@ -69,7 +69,7 @@ Suggestions and contributions are welcome.
 
 * [Kindle Weather Display](https://github.com/mpetroff/kindle-weather-display) ⚠️ Archived (Achieved) - A tool to display weather only on Kindle.
 * [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2026-05-25 - A local-first KUAL side display for dashboards and desktop status.
-* [Inkwell](https://github.com/pragyaangaur/Inkwell) ⭐ 3 | 🐛 1 | 🌐 C | 📅 2026-10-19 - An Alpine Linux userspace for the jailbroken Kindle Paperwhite 3 that runs on Amazon's kernel, with its own home screen, an offline chatbot that runs SmolLM2 through llama.cpp, Doom, the first version of Minecraft, a browser, notes, a sketchpad and SSH over USB.
+* [Inkwell](https://github.com/pragyaangaur/Inkwell) ⭐ 4 | 🐛 1 | 🌐 C | 📅 2026-10-19 - An Alpine Linux userspace for the jailbroken Kindle Paperwhite 3 that runs on Amazon's kernel, with its own home screen, an offline chatbot that runs SmolLM2 through llama.cpp, Doom, the first version of Minecraft, a browser, notes, a sketchpad and SSH over USB.
 * [KindleHub Device Pack](https://github.com/arancool3000/kindlehub-device-pack) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-10-10 - MIT-licensed KUAL extension that makes the stock browser fullscreen on a jailbroken Kindle, with power-button gestures, cover-only sleep and 229 redrawn UI icons.
 
 <details>
@@ -85,4 +85,4 @@ Suggestions and contributions are welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
