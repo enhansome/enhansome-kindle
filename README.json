@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T18:06:00Z",
-            "open_issues": 1398,
+            "last_commit": "2026-11-07T15:30:16Z",
+            "open_issues": 1397,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30908,
+            "stars": 30938,
             "topics": [
               "cbz",
               "djvu",
@@ -128,7 +128,7 @@
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26367,
+                "stars": 26377,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -258,11 +258,11 @@
                 "id": 6938242,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-11-05T00:13:23Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-06T23:21:41Z",
+                "open_issues": 41,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 5989,
+                "stars": 5997,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -297,7 +297,7 @@
                 "open_issues": 2,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2885,
+                "stars": 2886,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -662,16 +662,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Inkwell turns a jailbroken Kindle Paperwhite 3 into its own little Linux computer, with an AI agent that runs offline and Doom on e-ink.",
-            "homepage": null,
+            "description": "Inkwell turns a jailbroken Kindle Paperwhite 3 into its own little Linux computer, with an AI agent that runs offline and Doom on e-ink. Featured on Hackaday.",
+            "homepage": "https://hackaday.com/2026/11/06/its-alpine-linux-on-a-kindle-paperwhite-3/",
             "id": 1423681983,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-04T03:34:20Z",
+            "last_commit": "2026-11-07T04:05:56Z",
             "open_issues": 1,
             "owner": "pragyaangaur",
             "repo": "Inkwell",
-            "stars": 5,
+            "stars": 19,
             "topics": [
               "alpine-linux",
               "doom",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:54:59.027Z",
+    "last_updated": "2026-11-07T17:59:22.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
