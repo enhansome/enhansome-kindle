@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T19:44:43Z",
+            "last_commit": "2026-11-11T20:04:37Z",
             "open_issues": 1389,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31021,
+            "stars": 31040,
             "topics": [
               "cbz",
               "djvu",
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T15:16:33Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-11T17:04:18Z",
+                "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26408,
+                "stars": 26416,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -262,7 +262,7 @@
                 "open_issues": 41,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 6016,
+                "stars": 6019,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -491,10 +491,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2025-02-15T01:29:13Z",
-            "open_issues": 33,
+            "open_issues": 31,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2680,
+            "stars": 2678,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -667,8 +667,8 @@
             "id": 1423681983,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-07T04:05:56Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-11T01:09:38Z",
+            "open_issues": 2,
             "owner": "pragyaangaur",
             "repo": "Inkwell",
             "stars": 26,
@@ -700,7 +700,7 @@
             "open_issues": 0,
             "owner": "arancool3000",
             "repo": "kindlehub-device-pack",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "e-ink",
               "kindle",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:24:19.219Z",
+    "last_updated": "2026-11-11T20:07:13.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
