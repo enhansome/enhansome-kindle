@@ -6,7 +6,7 @@ Suggestions and contributions are welcome.
 
 ## Software
 
-* [Koreader](https://github.com/koreader/koreader) ⭐ 31,090 | 🐛 1,390 | 🌐 Lua | 📅 2026-11-14 - An ebook reader app running on kindle.
+* [Koreader](https://github.com/koreader/koreader) ⭐ 31,112 | 🐛 1,395 | 🌐 Lua | 📅 2026-11-15 - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) ⚠️ Archived - A PDF viewer on Koreader.
 * [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 16 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-03 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
 
@@ -14,8 +14,8 @@ Suggestions and contributions are welcome.
 
 ### Manager
 
-* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,436 | 🐛 7 | 🌐 Python | 📅 2026-11-14 - A famous ebook manager.
-* [kindle2notion](https://github.com/paperboi/kindle2notion) ⭐ 968 | 🐛 22 | 🌐 Python | 📅 2023-12-23 - A program to copy all your Kindle highlights and notes to a page in Notion.
+* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,444 | 🐛 6 | 🌐 Python | 📅 2026-11-15 - A famous ebook manager.
+* [kindle2notion](https://github.com/paperboi/kindle2notion) ⭐ 967 | 🐛 22 | 🌐 Python | 📅 2023-12-23 - A program to copy all your Kindle highlights and notes to a page in Notion.
 * [Kindle-highlights](https://github.com/speric/kindle-highlights) ⭐ 579 | 🐛 11 | 🌐 Ruby | 📅 2020-04-04 - A Ruby gem for collecting your Kindle hightlights.
 * [marginalia](https://github.com/VforVitorio/marginalia) ⭐ 6 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
 * [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/) - A browser-based tool to export Kindle highlights to Markdown, CSV, or JSON. 100% local, no upload required.
@@ -32,7 +32,7 @@ Suggestions and contributions are welcome.
 
 > The "generator" here means a tool to improve existing human-made content. Do not add tools to generate content mostly written by LLM.
 
-* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 6,044 | 🐛 38 | 🌐 Python | 📅 2026-11-13 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
+* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 6,052 | 🐛 38 | 🌐 Python | 📅 2026-11-13 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
 * [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,889 | 🐛 2 | 🌐 Python | 📅 2026-11-04 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) ⭐ 415 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-13 - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) ⭐ 375 | 🐛 17 | 🌐 Ruby | 📅 2023-04-12 - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
@@ -62,7 +62,7 @@ Suggestions and contributions are welcome.
 * [Kindle\_download\_helper](https://github.com/yihong0618/Kindle_download_helper/issues) ⚠️ Archived - A tool to download books from Amazon.
 * [geektime\_dl](https://github.com/jachinlin/geektime_dl) ⭐ 1,385 | 🐛 1 | 🌐 Python | 📅 2026-03-29 - A tool to generate books from Geektime.
 * [SICP-kindle](https://github.com/twcamper/sicp-kindle) ⭐ 954 | 🐛 0 | 🌐 HTML | 📅 2017-07-10 - The Kindle ebook of Structure and Interpretation of Computer Programs, 2nd Edition.
-* [Kindle Open Books](https://github.com/ericzhang-cn/kindle-open-books) ⭐ 810 | 🐛 8 | 🌐 Python | 📅 2020-01-27 - A tool to generate opensource books from Calibre recipes.
+* [Kindle Open Books](https://github.com/ericzhang-cn/kindle-open-books) ⭐ 811 | 🐛 8 | 🌐 Python | 📅 2020-01-27 - A tool to generate opensource books from Calibre recipes.
 * [KindleHelper](https://github.com/qq573011406/KindleHelper) ⚠️ Archived - A Windows app to download Chinese web fiction.
 
 ## Others
@@ -85,4 +85,4 @@ Suggestions and contributions are welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
