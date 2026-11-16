@@ -6,7 +6,7 @@ Suggestions and contributions are welcome.
 
 ## Software
 
-* [Koreader](https://github.com/koreader/koreader) ⭐ 31,112 | 🐛 1,395 | 🌐 Lua | 📅 2026-11-15 - An ebook reader app running on kindle.
+* [Koreader](https://github.com/koreader/koreader) ⭐ 31,141 | 🐛 1,404 | 🌐 Lua | 📅 2026-11-16 - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) ⚠️ Archived - A PDF viewer on Koreader.
 * [PageDrop](https://github.com/spandan-kumar/PageDrop) ⭐ 16 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-03 - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
 
@@ -14,7 +14,7 @@ Suggestions and contributions are welcome.
 
 ### Manager
 
-* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,444 | 🐛 6 | 🌐 Python | 📅 2026-11-15 - A famous ebook manager.
+* [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,454 | 🐛 6 | 🌐 Python | 📅 2026-11-16 - A famous ebook manager.
 * [kindle2notion](https://github.com/paperboi/kindle2notion) ⭐ 967 | 🐛 22 | 🌐 Python | 📅 2023-12-23 - A program to copy all your Kindle highlights and notes to a page in Notion.
 * [Kindle-highlights](https://github.com/speric/kindle-highlights) ⭐ 579 | 🐛 11 | 🌐 Ruby | 📅 2020-04-04 - A Ruby gem for collecting your Kindle hightlights.
 * [marginalia](https://github.com/VforVitorio/marginalia) ⭐ 6 | 🐛 14 | 🌐 Python | 📅 2026-08-24 - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
@@ -23,6 +23,7 @@ Suggestions and contributions are welcome.
 <details>
 <summary>Tools hosted on external websites are folded.</summary>
 
+* [Glasp](https://glasp.co/kindle-highlight-export) - A free web and PDF highlighter whose browser extension imports your Kindle highlights, so they sit in one place with your highlights from web pages, PDFs and YouTube. Also a free [My Clippings.txt converter](https://glasp.co/kindle-clippings-converter) that turns the file into CSV. Free plan; paid plans add more AI summaries.
 * [Lexpad](https://lexpad.app) - A vocabulary notebook with spaced repetition that imports the words you looked up on a Kindle (`vocab.db`) and highlights of up to four words from `My Clippings.txt`; AI can then add meanings and examples.
 * [Screvi](https://screvi.com) - A highlights manager that syncs your Kindle highlights daily (browser extension, mobile app or `My Clippings.txt`) and resurfaces them in a spaced-repetition daily review by app, email or widget. Exports to Obsidian, Notion and Markdown. Paid, with a 14-day free trial.
 
@@ -32,7 +33,7 @@ Suggestions and contributions are welcome.
 
 > The "generator" here means a tool to improve existing human-made content. Do not add tools to generate content mostly written by LLM.
 
-* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 6,052 | 🐛 38 | 🌐 Python | 📅 2026-11-13 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
+* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ⭐ 6,058 | 🐛 38 | 🌐 Python | 📅 2026-11-13 ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
 * [KindleEar](https://github.com/cdhigh/KindleEar) ⭐ 2,889 | 🐛 2 | 🌐 Python | 📅 2026-11-04 - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) ⭐ 415 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-13 - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) ⭐ 375 | 🐛 17 | 🌐 Ruby | 📅 2023-04-12 - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
@@ -45,10 +46,14 @@ Suggestions and contributions are welcome.
 <summary>Tools hosted on external websites are folded.</summary>
 
 * [RSS to Kindle](https://www.rsstokindle.com/) - A hosted service to subscribe to RSS and Substack feeds and get the full articles delivered to your Kindle as a daily EPUB digest. Free for up to five articles a day.
+* [TabToBook](https://chromewebstore.google.com/detail/tabtobook-save-articles-a/bknppdmpbnakclfjimaldnmamncmmhhn) - A Chrome extension that turns the web article in your current tab into a clean EPUB 3 (Readability text, table of contents, e-ink-safe images, editable title), built on your device with no account, then opens Amazon's Send to Kindle page to deliver it. Also works for Kobo and other EPUB readers. Free.
 * [Briefing Service — Morning Paper](https://briefing-service.wholemind.workers.dev/paper) - Hourly LLM-ranked news (AI, markets, sports, world) typeset as a multi-page PDF and delivered each morning by Send-to-Kindle or to reMarkable. Free PDF at `/v1/briefings/ai/paper.pdf`; delivery is $9/month.
 * [kdpbook.io](https://kdpbook.io) - An AI book studio for Amazon KDP: describe a book in a chat or import a manuscript, and it builds a Kindle eBook (EPUB, reflowable or fixed layout) plus the paperback interior and full-wrap cover PDFs. 2,000 free credits at signup (watermarked exports); paid plans from $25/month.
+* [CoverNice](https://covernice.com) - A cover-only studio for Amazon KDP: describe the book, pick one of five directions, then export a 1600x2560 eBook cover plus a full-wrap paperback PDF with spine width and bleed computed from page count and paper stock. Spine calculator is free, no account.
 * [Easy Book Translation](https://easybooktranslation.com) - Turns any EPUB into a bilingual (parallel-text) book: an AI translation is inserted under every paragraph, with names kept consistent and layout/images intact. Read it via Send-to-Kindle, Apple Books or Calibre. Free bilingual samples of public-domain classics; paid per book from $2.99.
 * [DuoText](https://duotext.io/parallel-text-kindle/) - Turns an EPUB, PDF or Word file into a bilingual (parallel-text) book, with a machine translation beside or under every paragraph, as EPUB, AZW3, MOBI or PDF for Kindle and Kobo. Also a free library of graded bilingual short stories in 14 languages. 50 pages free, then from $5 a month.
+* [Web to EPUB](https://webpagetoepub.com) - Turns a web article into a clean EPUB (no ads or menus; images and a cover kept) to read on a Kindle via Send-to-Kindle or on another e-reader. Several pages can go into one book. Free, no account. The page is fetched by the site's server, so pages behind a login or paywall may not convert.
+* [TofuToon PDF to EPUB](https://tofutoon.com/tools/pdf-to-epub) - Turns a text PDF into a reflowable EPUB with real chapters you can rename before saving, ready for Send to Kindle. Runs in the browser; the file is never uploaded. Free, no account. Scanned PDFs are not supported.
 
 </details>
 
@@ -76,6 +81,7 @@ Suggestions and contributions are welcome.
 <summary>Tools hosted on external websites are folded.</summary>
 
 * [KindleHub](https://kindlehub.pro) - Free web page that turns a Kindle's stock browser into a home screen with 100+ e-ink games, 70,000 Project Gutenberg books, notes and other apps. No jailbreak, just bookmark the URL.
+* [co.build Kindle mods](https://co.build/devices/kindle) - Open-source Kindle mods and tools, with owner reports by model and firmware.
 
 </details>
 
@@ -85,4 +91,4 @@ Suggestions and contributions are welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
