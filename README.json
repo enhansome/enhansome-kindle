@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T21:58:49Z",
-            "open_issues": 1401,
+            "last_commit": "2026-11-26T22:00:18Z",
+            "open_issues": 1398,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31327,
+            "stars": 31347,
             "topics": [
               "cbz",
               "djvu",
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T13:49:35Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-26T16:10:51Z",
+                "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26522,
+                "stars": 26533,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -259,10 +259,10 @@
                 "language": "Python",
                 "license": "ISC",
                 "last_commit": "2026-11-25T06:46:50Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 6093,
+                "stars": 6098,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -293,11 +293,11 @@
                 "id": 11188320,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T09:41:20Z",
+                "last_commit": "2026-11-25T23:27:27Z",
                 "open_issues": 0,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
-                "stars": 2889,
+                "stars": 2888,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:50.200Z"
@@ -630,7 +630,7 @@
             "open_issues": 2,
             "owner": "perduewu-ops",
             "repo": "kindle-side-card",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "ai-agents",
               "ambient-display",
@@ -668,10 +668,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-24T23:40:43Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "pragyaangaur",
             "repo": "Inkwell",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "alpine-linux",
               "doom",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:21:58.885Z",
+    "last_updated": "2026-11-26T22:13:29.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
