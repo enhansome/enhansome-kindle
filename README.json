@@ -37,11 +37,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T22:00:18Z",
-            "open_issues": 1398,
+            "last_commit": "2026-11-27T19:50:46Z",
+            "open_issues": 1401,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31347,
+            "stars": 31372,
             "topics": [
               "cbz",
               "djvu",
@@ -124,11 +124,11 @@
                 "id": 10332822,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T16:10:51Z",
+                "last_commit": "2026-11-27T18:41:30Z",
                 "open_issues": 6,
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 26533,
+                "stars": 26545,
                 "topics": [
                   "calibre",
                   "ebook",
@@ -262,7 +262,7 @@
                 "open_issues": 39,
                 "owner": "ciromattia",
                 "repo": "kcc",
-                "stars": 6098,
+                "stars": 6105,
                 "topics": [
                   "azw3",
                   "cbz",
@@ -293,7 +293,7 @@
                 "id": 11188320,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-25T23:27:27Z",
+                "last_commit": "2026-11-27T14:00:54Z",
                 "open_issues": 0,
                 "owner": "cdhigh",
                 "repo": "KindleEar",
@@ -494,7 +494,7 @@
             "open_issues": 31,
             "owner": "yihong0618",
             "repo": "Kindle_download_helper",
-            "stars": 2677,
+            "stars": 2676,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:50.200Z"
@@ -671,7 +671,7 @@
             "open_issues": 2,
             "owner": "pragyaangaur",
             "repo": "Inkwell",
-            "stars": 39,
+            "stars": 42,
             "topics": [
               "alpine-linux",
               "doom",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:13:29.778Z",
+    "last_updated": "2026-11-27T21:53:45.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A collection for awesome reposities that helps with Amazon Kindle.",
